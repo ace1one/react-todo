@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/react-todo/static/css/main.7b41e2ca.chunk.css",
-    "main.js": "/react-todo/static/js/main.a41a0b8c.chunk.js",
-    "main.js.map": "/react-todo/static/js/main.a41a0b8c.chunk.js.map",
-    "runtime-main.js": "/react-todo/static/js/runtime-main.9d8bfeae.js",
-    "runtime-main.js.map": "/react-todo/static/js/runtime-main.9d8bfeae.js.map",
-    "static/css/2.d5b15d80.chunk.css": "/react-todo/static/css/2.d5b15d80.chunk.css",
-    "static/js/2.e1e2e111.chunk.js": "/react-todo/static/js/2.e1e2e111.chunk.js",
-    "static/js/2.e1e2e111.chunk.js.map": "/react-todo/static/js/2.e1e2e111.chunk.js.map",
-    "static/js/3.98fd0fab.chunk.js": "/react-todo/static/js/3.98fd0fab.chunk.js",
-    "static/js/3.98fd0fab.chunk.js.map": "/react-todo/static/js/3.98fd0fab.chunk.js.map",
-    "index.html": "/react-todo/index.html",
-    "static/css/2.d5b15d80.chunk.css.map": "/react-todo/static/css/2.d5b15d80.chunk.css.map",
-    "static/css/main.7b41e2ca.chunk.css.map": "/react-todo/static/css/main.7b41e2ca.chunk.css.map",
-    "static/js/2.e1e2e111.chunk.js.LICENSE.txt": "/react-todo/static/js/2.e1e2e111.chunk.js.LICENSE.txt",
-    "static/media/mdb.css": "/react-todo/static/media/arrow_right.0897f985.svg",
-    "static/media/all.min.css": "/react-todo/static/media/fa-solid-900.efbd5d20.eot"
+    "main.css": "/ace1one/react-todo/static/css/main.df673dc8.chunk.css",
+    "main.js": "/ace1one/react-todo/static/js/main.a41a0b8c.chunk.js",
+    "main.js.map": "/ace1one/react-todo/static/js/main.a41a0b8c.chunk.js.map",
+    "runtime-main.js": "/ace1one/react-todo/static/js/runtime-main.6d71315f.js",
+    "runtime-main.js.map": "/ace1one/react-todo/static/js/runtime-main.6d71315f.js.map",
+    "static/css/2.bcae2c99.chunk.css": "/ace1one/react-todo/static/css/2.bcae2c99.chunk.css",
+    "static/js/2.e1e2e111.chunk.js": "/ace1one/react-todo/static/js/2.e1e2e111.chunk.js",
+    "static/js/2.e1e2e111.chunk.js.map": "/ace1one/react-todo/static/js/2.e1e2e111.chunk.js.map",
+    "static/js/3.98fd0fab.chunk.js": "/ace1one/react-todo/static/js/3.98fd0fab.chunk.js",
+    "static/js/3.98fd0fab.chunk.js.map": "/ace1one/react-todo/static/js/3.98fd0fab.chunk.js.map",
+    "index.html": "/ace1one/react-todo/index.html",
+    "static/css/2.bcae2c99.chunk.css.map": "/ace1one/react-todo/static/css/2.bcae2c99.chunk.css.map",
+    "static/css/main.df673dc8.chunk.css.map": "/ace1one/react-todo/static/css/main.df673dc8.chunk.css.map",
+    "static/js/2.e1e2e111.chunk.js.LICENSE.txt": "/ace1one/react-todo/static/js/2.e1e2e111.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/ace1one/react-todo/static/media/arrow_right.0897f985.svg",
+    "static/media/all.min.css": "/ace1one/react-todo/static/media/fa-solid-900.efbd5d20.eot"
   },
   "entrypoints": [
-    "static/js/runtime-main.9d8bfeae.js",
-    "static/css/2.d5b15d80.chunk.css",
+    "static/js/runtime-main.6d71315f.js",
+    "static/css/2.bcae2c99.chunk.css",
     "static/js/2.e1e2e111.chunk.js",
-    "static/css/main.7b41e2ca.chunk.css",
+    "static/css/main.df673dc8.chunk.css",
     "static/js/main.a41a0b8c.chunk.js"
   ]
 }
